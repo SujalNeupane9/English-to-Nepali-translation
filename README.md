@@ -9,7 +9,7 @@ If you want to play around with the notebook, click the following button.
 This repository contains code for translating English text into Nepali using the M2M100 model from Hugging Face's Transformers library. The model is fine-tuned for sequence-to-sequence (seq2seq) translation tasks.
 
 ### Requirements
-- Python 3.x
+- Python 3.10
 - PyTorch
 - Transformers
 - Datasets
