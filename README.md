@@ -16,7 +16,7 @@ This repository contains code for translating English text into Nepali using the
 
 ### Code overview
 
-- English_to_Nepali_translation.ipynb: Contains code for training the seq2seq model and performing English to Nepali translations.
+- **English_to_Nepali_translation.ipynb**: Contains code for training the seq2seq model and performing English to Nepali translations.
 
 ### Example
 
