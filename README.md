@@ -40,3 +40,9 @@ print("Nepali Translation:", nepali_translation)
 ### Acknowledgement
 - The code uses the M2M100 model by Alirezamsh from the Hugging Face Model Hub.
 - The code for computing BLEU score utilizes the sacreBLEU metric.
+
+### References
+- [Hugging Face Transformers Library](https://github.com/huggingface/transformers)
+- [KDE4 Dataset](https://www.kde.org/)
+- [sacreBLEU Metric](https://github.com/mjpost/sacreBLEU)
+
